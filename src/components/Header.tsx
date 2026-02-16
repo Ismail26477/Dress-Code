@@ -24,7 +24,7 @@ const Header = () => {
           </div>
 
           <Link to="/" className="font-display text-xl font-bold tracking-wide">
-            Shivam
+            Dress Code
           </Link>
 
           <div className="flex items-center gap-3">
